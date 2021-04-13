@@ -1,0 +1,17 @@
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\constant\HttpUrlConstants.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\util\JwtInfo.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\util\OrderIdUtils.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\dto\serviceverificationcode\response\VerifyCodeResponse.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\dto\servicepassengeruser\T.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\constant\RedisKeyPrefixConstant.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\constant\CommonStatusEnum.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\util\JwtUtil.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\dto\serviceverificationcode\request\VerifyCodeRequest.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\InternalCommonApplication.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\constant\IdentityConstant.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\dto\servicesms\SmsTemplateDto.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\util\SnowflakeUtils.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\dto\ResponseResult.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\dto\servicesms\request\SmsSendRequest.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\dto\servicepassengeruser\request\LoginRequest.java
+D:\idea\online-taxi\internal-common\src\main\java\com\mashibing\internalcommon\util\RedisKeyUtil.java
